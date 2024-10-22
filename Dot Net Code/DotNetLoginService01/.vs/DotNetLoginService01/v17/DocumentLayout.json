@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\MyProject\\Group No. 08\\Dot Net Code\\DotNetLoginService01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A345278A-E206-44A1-89DD-6FB14BDC6D96}|TravelManagement\\TravelManagement.csproj|c:\\users\\lenovo\\desktop\\myproject\\group no. 08\\dot net code\\dotnetloginservice01\\travelmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A345278A-E206-44A1-89DD-6FB14BDC6D96}|TravelManagement\\TravelManagement.csproj|solutionrelative:travelmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MyProject\\Group No. 08\\Dot Net Code\\DotNetLoginService01\\TravelManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TravelManagement\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MyProject\\Group No. 08\\Dot Net Code\\DotNetLoginService01\\TravelManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TravelManagement\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAiwJsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:28:28.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
